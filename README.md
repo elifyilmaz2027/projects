@@ -9,5 +9,5 @@ My machine learning projects include:
 -Expectation Maximization Algorithm from scrath for Gaussian Mixtures  
 -Logistic Regression with Stochastic Gradient Descent from scratch  
 -Text generation with textgenrnn library  
--Fraud detection with Xgboost and Catboost 
+-Fraud detection with Xgboost and Catboost  
 -Random Variable Generation
