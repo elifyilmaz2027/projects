@@ -1,5 +1,4 @@
-# Machine Learning Projects
-My machine learning projects include:  
+# Machine Learning & Deep Learning Projects  
 -Logistic Regression from scratch for classification of handwritten digit 1 and digit 5  
 -SVM for given data by using libsvm library  
 -Sale price prediction for cars with Linear Regression  
