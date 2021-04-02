@@ -2,6 +2,7 @@
 -Logistic Regression from scratch for classification of handwritten digit 1 and digit 5  
 -SVM for given data by using libsvm library  
 -Sale price prediction for cars with Linear Regression  
+-Classification of Turkish Lira Banknotes   
 -PCA from scratch and k-means from scratch  
 -Multiclass classification by using different models   
 -Prediciton of Term-deposit by using different models  
