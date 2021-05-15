@@ -11,4 +11,4 @@
 -Text generation with textgenrnn library  
 -Fraud detection with Xgboost and Catboost  
 -Random Variable Generation  
--Neural Language Model
+-Neural Language Model with Multi-layer Perceptron
