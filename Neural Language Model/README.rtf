@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 In Network.py file, there are functions for bacward and forward propagations. It includes also a function for one hot encoding, loss and accuracy functions. During the forward propagation steps, we use initial parameters at first. Here, parameters are selected randomly as very small numbers between 0 and 1. To initialize parameters,  we can use initialize_parameters function. \
+\
+In main.py file, we train the model in Network.py file. We use train inputs and targets and validation inputs and targets. Also, here we plot the accuracy and loss changes. After training the model, we save parameters to model.pk file.\
+\
+In eval.py file, we use test inputs and targets. We get test loss and test accuracy. Also, we give \'91city of new\'92, \'91life in the\'92 and \'91he is the\'92 as an input and we get prediction of next word.\
+\
+In tsne.py file, we use w1 among parameters in model.pk file. Then, we get word embeddings and fit and transform them by using the t-SNE function. Therefore, we plot the word relations. Also, tsne.py file has the plot without using word embeddings.\
+\
+In report.pdf file, we enables us to information in detail and interpretation of the results. It allows us to understand well how to apply forward and backward propagation steps and how to get our results. }
