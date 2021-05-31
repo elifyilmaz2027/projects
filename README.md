@@ -11,4 +11,5 @@
 -Text generation with textgenrnn library  
 -Fraud detection with Xgboost and Catboost  
 -Random Variable Generation  
--Neural Language Model with Multi-layer Perceptron
+-Neural Language Model with Multi-layer Perceptron  
+-Convolutional Neural Network Model for CIFAR10 
