@@ -13,4 +13,5 @@ In this repository, there are several machine learning and deep learning project
 -Fraud detection with Xgboost and Catboost  
 -Random Variable Generation  
 -Neural Language Model with Multi-layer Perceptron  
--Convolutional Neural Network Model for CIFAR10 
+-Convolutional Neural Network Model for CIFAR10  
+-Variational Autoencoder for MNIST
