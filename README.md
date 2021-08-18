@@ -20,6 +20,11 @@ Also, some problem solutions for random variable generation, polynomial regressi
 - [Computer Problems from Numerical Mathematics and Computing by Cheny and Kincaid](https://github.com/elifyilmaz2027/projects/tree/main/Homeworks-CSE551)  
   
 
-The repository also includes some presentations in university classes mentioned above.  
+The repository also includes presentations and proposals in university classes mentioned above. Some presentations talk about improvements for the paper and some presentations tell us about chapters from the books such as Pattern Recognition and Machine Learning by Christopher M. Bishop.    
+- [MATH585 Presentations](https://github.com/elifyilmaz2027/projects/tree/main/Presentations-Math585)  
+- [Random Variable Generation](https://github.com/elifyilmaz2027/projects/blob/main/Random%20Variable%20Generation/rvg_presentation.pdf)  
+- https://github.com/elifyilmaz2027/projects/tree/main/hLSTM%20for%20visual%20captioning
+- [Improvements to Hierarchical LSTMs with Adaptive Attention for Visual Captioning](https://github.com/elifyilmaz2027/projects/tree/main/hLSTM%20for%20visual%20captioning)  
+- [Presentations about Christopher M. Bishop PR and ML](https://github.com/elifyilmaz2027/projects/tree/main/presentations%20-%20Christopher%20M.%20Bishop%20PR%20and%20ML)
 
 
