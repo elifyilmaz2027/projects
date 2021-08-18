@@ -14,7 +14,10 @@ In this repository, there are several machine learning and deep learning project
 - [Expectation-Maximization Algorithm from scratch for Gaussian Mixtures](https://github.com/elifyilmaz2027/projects/tree/main/Expectation-Maximization)   
 - [Text generation with textgenrnn library](https://github.com/elifyilmaz2027/projects/blob/main/text-generation.ipynb)  
 - [Fraud detection with Xgboost and Catboost](https://github.com/elifyilmaz2027/projects/blob/main/Fraud%20detection.ipynb)  
+
+Also, some problem solutions for random variable generation, polynomial regression algorithm, least squares, Taylor series, differential equations and Runge-Kutta methods.
 - [Random Variable Generation](https://github.com/elifyilmaz2027/projects/tree/main/Random%20Variable%20Generation)  
+- [Computer Problems from Numerical Mathematics and Computing by Cheny and Kincaid](https://github.com/elifyilmaz2027/projects/tree/main/Homeworks-CSE551)  
   
 
 The repository also includes some presentations in university classes mentioned above.  
