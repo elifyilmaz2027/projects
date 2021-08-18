@@ -15,5 +15,6 @@ In this repository, there are several machine learning and deep learning project
 - Neural Language Model with Multi-layer Perceptron  
 - Convolutional Neural Network Model for CIFAR10  
 - Variational Autoencoder for MNIST  
+
 The repository also includes some presentations in university classes.  
 
