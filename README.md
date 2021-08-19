@@ -1,5 +1,7 @@
 # Machine Learning & Deep Learning Projects  
-In this repository, there are several machine learning and deep learning projects. The tasks and data are given by instructors from Boğaziçi University in classes __CSE551, CMPE462, CMPE544, CMPE597, EC48Y, MATH585 and MATH541.__ Also, some projects were done in programs (inzva) followed  as online. Beriefly, the project topics are:
+In this repository, there are several machine learning and deep learning projects and also some presentation slides about machine learning and deep learning.  
+
+The tasks and data are given by instructors from Boğaziçi University in classes __CSE551, CMPE462, CMPE544, CMPE597, EC48Y, MATH585 and MATH541.__ Also, some projects were done in programs followed  as online. Beriefly, the project topics are:
 - [Neural Language Model with Multi-layer Perceptron](https://github.com/elifyilmaz2027/projects/tree/main/Neural%20Language%20Model)  
 - [Convolutional Neural Network Model for CIFAR10](https://github.com/elifyilmaz2027/projects/tree/main/Convolutional%20Neural%20Network)  
 - [Variational Autoencoder for MNIST](https://github.com/elifyilmaz2027/projects/tree/main/Variational%20Autoencoder)
